@@ -1,5 +1,5 @@
 #include<stdio.h>
- void add()
+void add()
 {
    int a, b, c;
  
@@ -10,6 +10,5 @@
  
    printf("Sum of the numbers = %d\n", c);
  
-  // return 0;
+   //return 0;
 }
-
